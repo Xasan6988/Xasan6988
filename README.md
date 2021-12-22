@@ -3,13 +3,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xasan6988](https://github.com/Xasan6988)
 
-- 📝 I regularly write articles on [https://t.me/echogame](https://t.me/echogame)
+- 📝 I regularly write on [https://t.me/echogame](https://t.me/echogame)
 
 - 📫 How to reach me **onesaddev@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tema8xasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tema8xasan" height="30" width="40" /></a>
+  <a href="https://t.me/ramirezzzs" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1640176001~hmac=c9f327ae629b28f12f0a14f7b31fc6b9" alt="ramirezzzs" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
