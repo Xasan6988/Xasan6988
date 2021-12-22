@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artyom Khabibyllin</h1>
-<h3 align="center">Web-developer on JavaScript</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Xasan6988](https://github.com/Xasan6988)
+<h3 align="center">Fullstack web-developer on JavaScript</h3>
 
 - 📝 I regularly write on [https://t.me/echogame](https://t.me/echogame)
 
