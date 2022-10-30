@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artyom Khabibyllin</h1>
 <h3 align="center">Fullstack web-developer on JavaScript</h3>
 
-- 📝 I regularly write on [https://t.me/echogame](https://t.me/echogame)
-
 - 📫 How to reach me **onesaddev@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/tema8xasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tema8xasan" height="30" width="40" /></a>
   <a href="https://t.me/onesaddev" target="_blank">✈</a>
 </p>
 
