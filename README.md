@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artyom Khabibyllin</h1>
+<h1 align="center">Hi 👋, I'm Artem Khabibyllin</h1>
 <h3 align="center">Fullstack web-developer on JavaScript</h3>
 
 - 📫 How to reach me **onesaddev@mail.ru**
